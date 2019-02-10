@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "noImplicitThis": true,
+    "strictNullChecks": true,
+    "target": "es2017",
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "lib": [
+      "es2017",
+      "dom",
+      "esnext.asynciterable"
+    ]
+  }
+}
